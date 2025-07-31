@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>relatode(los)dias</title>
+    <link href="https://relatodelosdias.github.io/blog/feed.xml" rel="self" />
+    <link href="https://relatodelosdias.github.io/blog" />
+    <updated>2025-07-31T18:34:19+02:00</updated>
+    <author>
+        <name>Estela</name>
+    </author>
+    <id>https://relatodelosdias.github.io/blog</id>
+
+    <entry>
+        <title>relato del verano</title>
+        <author>
+            <name>Estela</name>
+        </author>
+        <link href="https://relatodelosdias.github.io/blog/relato-de-los-dias.html"/>
+        <id>https://relatodelosdias.github.io/blog/relato-de-los-dias.html</id>
+
+        <updated>2025-07-30T14:05:32+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Es verano, es decir, mi época menos favorita del año. Ni siquiera me gusta que anochezca a las nueve y media de la noche. Lo único bueno que, para mí, tiene esta estación es que me puedo dejar secar el pelo al aire libre. Lo&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://relatodelosdias.github.io/blog/media/posts/1/IMG_4826.jpeg" alt="" width="2927" height="1651" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://relatodelosdias.github.io/blog/media/posts/1/responsive/IMG_4826-xs.jpeg 640w ,https://relatodelosdias.github.io/blog/media/posts/1/responsive/IMG_4826-sm.jpeg 768w ,https://relatodelosdias.github.io/blog/media/posts/1/responsive/IMG_4826-md.jpeg 1024w ,https://relatodelosdias.github.io/blog/media/posts/1/responsive/IMG_4826-lg.jpeg 1366w ,https://relatodelosdias.github.io/blog/media/posts/1/responsive/IMG_4826-xl.jpeg 1600w ,https://relatodelosdias.github.io/blog/media/posts/1/responsive/IMG_4826-2xl.jpeg 1920w"></figure>Es verano, es decir, mi época menos favorita del año. Ni siquiera me gusta que anochezca a las nueve y media de la noche. Lo único bueno que, para mí, tiene esta estación es que me puedo dejar secar el pelo al aire libre.</p>
+<p><br>Lo peor de que no te guste el verano es que al resto de los mortales parece que sí. Todo el mundo halaga la cantidad de horas de luz solar, el "buen tiempo" (sigo sin entender cómo 35ºC a la sombra puede considerarse algo bueno), la posibilidad de comer helados, las siestas eternas, etc. <br>Dicen que les gusta el verano, pero lo que en el fondo nos gusta, yo creo, son las vacaciones, esto es, tener más tiempo para dedicar a esas actividades que postergamos el resto de meses porque no encontramos un hueco en el que encajen. </p>
+<p><br>Cuando somos pequeños, el verano dura mil años. Olemos todo el día a sal, a cloro y a crema solar con SPF +50. Comemos rápido porque así tenemos más tiempo para estar con nuestros amigos, ya sea jugando o charlando. Nos pasamos el día a remojo como los mejillones. Soñamos en voz alta porque así todo parece más cercano. Ese verano sí, ese era distinto, aunque siguieras prefiriendo las temperaturas frías.  <br><br></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
